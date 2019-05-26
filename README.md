@@ -1,5 +1,3 @@
->> Experimental Setup 
-
 In this work, we created a platform testbed to automatically run the experiment and collect the data. The block diagram of this testbed platform is displayed in the figure bellow. The three most important elements in the testbed are the HMD, the router, and the server computer. 
 
 The participants watched the 360-degree videos using the BOBOVR X1 HMD [2]. BOBOVR has the following technical specifications: a modified Android 4.4, an octacore ARM 2GHz processor, 2GB DDR3 of RAM, sampling rate of 250 Hz, a Wifi 802.11 b/g/n connection, and a 5.5 inches screen display with a spatial resolution of 1920_1080 and a FOV of 120 degrees. 
